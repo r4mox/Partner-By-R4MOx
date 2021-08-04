@@ -8,7 +8,7 @@ client.on("ready", () => {
   console.log("UnKnown")
   client.user.setStatus("ONLINE");
 
-  client.user.setActivity(`Project By UnKnown`, { type: "PLAYING" });
+  client.user.setActivity(`R4MOx`, { type: "PLAYING" });
 
   client.guilds.cache.forEach(g => {
 
