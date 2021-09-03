@@ -5,7 +5,7 @@ const talkedRecently = new Set();
 
 
 client.on("ready", () => {
-  console.log("UnKnown")
+  console.log("R4MOx")
   client.user.setStatus("ONLINE");
 
   client.user.setActivity(`R4MOx`, { type: "PLAYING" });
