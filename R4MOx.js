@@ -73,4 +73,4 @@ client.on("ready", () => {
 });
 
 
-client.login("")
+client.login("ODY4NTk3NDQzOTI5OTc2OTIy.YPx-aA.cdvoXBOrWzlm-409lPY-WdMM4Fc")
