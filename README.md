@@ -1,1 +1,1 @@
-# partner by R4MOx
+# Partner By R4MOx
