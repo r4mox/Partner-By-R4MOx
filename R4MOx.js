@@ -21,8 +21,16 @@ client.on("ready", () => {
   });
 
 });
+client.on("message", SHVAN => {
 
+  if (SHVAN.content.startsWith("reklam")) {
 
+    SHVAN.author.send("**چاوەکەم ریـکـلامـەکـەم بـۆ بنێرە**");
+
+    SHVAN.reply("**ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+
+  } 
+});
 
 client.on("message", vex => { 
 if(vex.content.includes("discord.gg")){ 
